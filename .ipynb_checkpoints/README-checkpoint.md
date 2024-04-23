@@ -18,7 +18,6 @@ The steps for this homework are divided into the following sections:
 
 ## Execution_Results
 
-- ![deployment](Execution_Results/deploy_run_transaction.png)
 - ![contract deployed](Execution_Results/contract_deployed.png)
 - ![no recorded transaction](Execution_Results/no_transactions.png)
 - ![set dummy accounts](Execution_Results/set_accounts.png)
